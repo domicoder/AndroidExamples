@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HellPeoplys</string>
+    <string name="welcome">Welcome to HellPeoplys</string>
+    <string name="aboutApp">This application gets your information and the system greet you.</string>
+    <string name="txtName">Name</string>
+    <string name="txtLastName">Last name</string>
+    <string name="txtCed">Cedula</string>
+    <string name="txtAddress">Address</string>
+    <string name="txtAge">Age</string>
+    <string name="txtNumber">Number</string>
+    <string name="txtBtnAdd">Add</string>
+    <string name="txtWelcomeSystem">Welcome to System</string>
+    <string name="txtInformation">This is your information:</string>
+    <string name="txtName_Actv2">Your Name</string>
+    <string name="textLastName_actv2">Your Last Name</string>
+    <string name="textCed_actv2">Cedula</string>
+    <string name="textAddress_actv2">Address</string>
+    <string name="textAge_actv2">Age</string>
+    <string name="textNumber_actv2">Number</string>
+    <string name="txtNameWithout">Name:</string>
+    <string name="txtLastNameWithout">Last Name:</string>
+    <string name="txtCedWithout">Cedula:</string>
+    <string name="txtAddressWithout">Address:</string>
+    <string name="txtAgeWithout">Age:</string>
+    <string name="txtNumberWithout">Number:</string>
+    <string name="txtBtn_back_actv2">Back</string>
+
+</resources>
